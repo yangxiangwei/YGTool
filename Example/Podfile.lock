@@ -1,0 +1,16 @@
+PODS:
+  - YGTool (0.1.0)
+
+DEPENDENCIES:
+  - YGTool (from `../`)
+
+EXTERNAL SOURCES:
+  YGTool:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YGTool: d1d5cc399293dcc03b74e182d527fc0189871680
+
+PODFILE CHECKSUM: db1c84fca9ad59e3508f7dc70209ef4f532a7227
+
+COCOAPODS: 1.4.0.beta.2

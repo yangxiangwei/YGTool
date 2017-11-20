@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YGTool_Tests' do
+  pod 'YGTool', :path => '../'
+  
+  
+end

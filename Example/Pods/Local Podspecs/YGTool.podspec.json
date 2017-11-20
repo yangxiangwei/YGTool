@@ -1,0 +1,22 @@
+{
+  "name": "YGTool",
+  "version": "0.1.0",
+  "summary": "A short description of YGTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/canlanyangg@126.com/YGTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "canlanyangg@126.com": "yangxiangwei@ylb.net"
+  },
+  "source": {
+    "git": "https://github.com/canlanyangg@126.com/YGTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YGTool/Classes/**/*"
+}
